@@ -9,6 +9,7 @@
     "react-router": "^4.2.0",
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.1.4",
+    "webpack-dev-server": "^3.1.4",
     "zingchart": "^2.6.1",
     "zingchart-react": "^1.0.6"
   },
